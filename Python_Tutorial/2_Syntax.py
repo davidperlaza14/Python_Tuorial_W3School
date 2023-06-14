@@ -26,3 +26,19 @@ if 5 > 2:
 # Variables en Python:
 x = 5
 y = "Hello, World!"
+
+
+# Comentarios
+
+"""
+Python tiene la capacidad de comentar con el propósito de la documentación en el código.
+
+Los comentarios comienzan con un # y Python representará el resto de la línea como un comentario:
+
+Ejemplo
+
+Comentarios en Python:
+
+"""
+# This is a comment.
+print("Hello, World")
